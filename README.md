@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joti</h1>
 <h3 align="center">💻 Passionate about GIS and Remote Sensing 🌍</h3>
-[![wakatime](https://wakatime.com/badge/user/f4b17915-1367-444e-bf4e-1911ac966789.svg)](https://wakatime.com/@f4b17915-1367-444e-bf4e-1911ac966789)
+
 - 🔭 I’m currently working on **Geospatial Data Analysis**
 
 - 🌱 I’m currently learning **Geospatial with Python**
