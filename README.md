@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Geospatial with Python**
 
-- 💬 Ask me about **Python, Arcgis, Arcgis Pro, QGIS, Terrset**
+- 💬 Ask me about **Python, Arcgis, Arcgis Pro, QGIS, Terrset, Google Earth Engine (GEE)**
 
 - 📫 How to reach me **jotishaha58@gmail.com**
 
